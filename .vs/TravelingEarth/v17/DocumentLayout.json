@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity project\\TravelingEarth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\planets\\planetschose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\planets\\planetschose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|e:\\unity project\\travelingearth\\assets\\planets\\planetsmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\planets\\planetsmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\showmeteoritenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\showmeteoritenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\dragcontrol\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\dragcontrol\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\meteorite\\instantiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\meteorite\\instantiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\earth\\absorbmeteorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\earth\\absorbmeteorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\earth\\escape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\earth\\escape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\continuegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\continuegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\dragcontrol\\detect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\dragcontrol\\detect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\gamerulebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\gamerulebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\videoplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\videoplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\earth\\earthbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\earth\\earthbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\callui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\callui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\backtomainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\backtomainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\backtotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\backtotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\uicharge\\tishi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\uicharge\\tishi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|E:\\unity project\\TravelingEarth\\assets\\planets\\planetsbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5081075-62E9-AAA3-0F43-D52FD01F8061}|Assembly-CSharp.csproj|solutionrelative:assets\\planets\\planetsbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowMeteoriteNumber.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\ShowMeteoriteNumber.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\ShowMeteoriteNumber.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\ShowMeteoriteNumber.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\ShowMeteoriteNumber.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:11:12.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detect.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\DragControl\\Detect.cs",
+              "RelativeDocumentMoniker": "Assets\\DragControl\\Detect.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\DragControl\\Detect.cs",
+              "RelativeToolTip": "Assets\\DragControl\\Detect.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wCIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:53:36.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanetsChose.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\Planets\\PlanetsChose.cs",
+              "RelativeDocumentMoniker": "Assets\\Planets\\PlanetsChose.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\Planets\\PlanetsChose.cs",
+              "RelativeToolTip": "Assets\\Planets\\PlanetsChose.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAzwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:25:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Control.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\DragControl\\Control.cs",
+              "RelativeDocumentMoniker": "Assets\\DragControl\\Control.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\DragControl\\Control.cs",
+              "RelativeToolTip": "Assets\\DragControl\\Control.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAywC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:29:18.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanetsMove.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\Planets\\PlanetsMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Planets\\PlanetsMove.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\Planets\\PlanetsMove.cs",
+              "RelativeToolTip": "Assets\\Planets\\PlanetsMove.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBPwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:37:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbsorbMeteorite.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\Earth\\AbsorbMeteorite.cs",
+              "RelativeDocumentMoniker": "Assets\\Earth\\AbsorbMeteorite.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\Earth\\AbsorbMeteorite.cs",
+              "RelativeToolTip": "Assets\\Earth\\AbsorbMeteorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:15:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContinueGame.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\ContinueGame.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\ContinueGame.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\ContinueGame.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\ContinueGame.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:34:03.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instantiate.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\Meteorite\\Instantiate.cs",
+              "RelativeDocumentMoniker": "Assets\\Meteorite\\Instantiate.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\Meteorite\\Instantiate.cs",
+              "RelativeToolTip": "Assets\\Meteorite\\Instantiate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:54:33.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Escape.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\Earth\\Escape.cs",
+              "RelativeDocumentMoniker": "Assets\\Earth\\Escape.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\Earth\\Escape.cs",
+              "RelativeToolTip": "Assets\\Earth\\Escape.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:31:28.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameRuleButton.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\GameRuleButton.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\GameRuleButton.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\GameRuleButton.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\GameRuleButton.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:26:24.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Restart.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\Restart.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\Restart.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\Restart.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\Restart.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:30:03.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\StartGame.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\StartGame.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\StartGame.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:09:21.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BackToMainScene.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\BackToMainScene.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\BackToMainScene.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\BackToMainScene.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\BackToMainScene.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:39:22.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CallUI.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\CallUI.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\CallUI.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\CallUI.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\CallUI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:41:13.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VideoPlay.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\VideoPlay.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\VideoPlay.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\VideoPlay.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\VideoPlay.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:59:25.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EarthBasic.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\Earth\\EarthBasic.cs",
+              "RelativeDocumentMoniker": "Assets\\Earth\\EarthBasic.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\Earth\\EarthBasic.cs",
+              "RelativeToolTip": "Assets\\Earth\\EarthBasic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:06:29.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BackToTable.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\BackToTable.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\BackToTable.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\BackToTable.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\BackToTable.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:13:30.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TiShi.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\TiShi.cs",
+              "RelativeDocumentMoniker": "Assets\\UIcharge\\TiShi.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\UIcharge\\TiShi.cs",
+              "RelativeToolTip": "Assets\\UIcharge\\TiShi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:25:36.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlanetsBasic.cs",
+              "DocumentMoniker": "E:\\unity project\\TravelingEarth\\Assets\\Planets\\PlanetsBasic.cs",
+              "RelativeDocumentMoniker": "Assets\\Planets\\PlanetsBasic.cs",
+              "ToolTip": "E:\\unity project\\TravelingEarth\\Assets\\Planets\\PlanetsBasic.cs",
+              "RelativeToolTip": "Assets\\Planets\\PlanetsBasic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:41:21.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
